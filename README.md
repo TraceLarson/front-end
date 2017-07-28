@@ -7,6 +7,8 @@ These docs serve as a way for beginners to contribute knowledge, ask questions, 
 
 ## Current Topics
 
+- [Introduction to Ajax](topics/ajax.md)
+
 ## Contributing
 
 To contribute to this repo, check the [issues page](https://github.com/fswebdev/front-end/issues) for topics ideas. Topics will be tagged with their subject area.
