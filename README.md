@@ -8,6 +8,7 @@ These docs serve as a way for beginners to contribute knowledge, ask questions, 
 ## Current Topics
 
 - [Introduction to Ajax](topics/ajax.md)
+- [Regular Expressions](topics/regex.md)
 
 ## Contributing
 
